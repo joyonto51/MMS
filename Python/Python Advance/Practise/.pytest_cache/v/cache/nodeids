@@ -1,0 +1,5 @@
+[
+  "even_test.py::test_odd_even",
+  "even_test.py::test_odd",
+  "test_Prime_num.py::test_prime"
+]

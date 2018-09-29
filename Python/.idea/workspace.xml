@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Nested_func.py" line="9" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Nested_func.py" line="15" />
+    <bookmark url="file://$PROJECT_DIR$/Python Advance/Practise/search.py" line="23" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db8e53c2-11c8-452b-a078-2c8527be68b9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python$11.coverage" NAME="11 Coverage Results" MODIFIED="1505755668558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/Python$2D_0.coverage" NAME="2D-0 Coverage Results" MODIFIED="1505755682611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array/2D Array" />
+    <SUITE FILE_PATH="coverage/Python$len.coverage" NAME="len Coverage Results" MODIFIED="1505791975211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String function" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2D-0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/2D-0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2D-1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/2D-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="string.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python Basic/string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/Matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="namota.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python Basic/namota.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clear</find>
+      <find>n1</find>
+      <find>assert</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cls</replace>
+      <replace>n</replace>
+      <replace>asserEqual)</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Python Advance/Practise/String Manipulation.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Search from list" />
+        <option value="$PROJECT_DIR$/Python Basic/Problem/24-09-17.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Projects/Final Quiz Project.py" />
+        <option value="$USER_HOME$/Downloads/e3986e68ebc90a4a10e38186497d6e06-7986b63b6afbe09c664b0708cc7b75b8fc3ee615/PYTHON_store_and_search_data_for_start_learning.py" />
+        <option value="$PROJECT_DIR$/Python Basic/Project/Project Retry.py" />
+        <option value="$USER_HOME$/Downloads/e3986e68ebc90a4a10e38186497d6e06-7986b63b6afbe09c664b0708cc7b75b8fc3ee615 (1)/PYTHON_store_and_search_data_for_start_learning.py" />
+        <option value="$USER_HOME$/Downloads/b1159f3d3892fdeaca2e36aab9fa0ea0-518aba7c890f3f9c6968983a4a2cbac7ff19981d/python quiz mini project based on web crolling.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Comprehension.py" />
+        <option value="$PROJECT_DIR$/Python Basic/Project/Project-1.3.py" />
+        <option value="$PROJECT_DIR$/Python Basic/Project/PYTHON_store_and_search_data_for_start_learning.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Projects/python quiz mini project based on web crolling.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Database/database_basic.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Recursion.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Project With Database/Copy of PYTHON_store_and_search_data_for_start_learning_using_DATABASE.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Area of Circle.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Project With Database/PYTHON_store_and_search_data_for_start_learning_using_DATABASE.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Factorial.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Factorial_by_Recursion.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Database/Sqlite.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Projects/Object Oriented/test.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Fibo.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/test.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator-2.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Dec_classmethod.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator/Dec_simple.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator/Nested_func.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func-3.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func-4.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func4.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func3.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func5.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/11172.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems/12372.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems/12577.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/lopp.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/search.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems/10300.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems/492.py" />
+        <option value="$PROJECT_DIR$/Python Basic/namota.py" />
+        <option value="$PROJECT_DIR$/Python Basic/Array/2D Array/2D-2.py" />
+        <option value="$PROJECT_DIR$/Python Basic/Array/2D Array/Matrix.py" />
+        <option value="$PROJECT_DIR$/Python Basic/Array/2D Array/2D-1.py" />
+        <option value="$PROJECT_DIR$/Python Basic/string.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems/401.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems/195.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/even_test.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/Prime_num.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/test_Prime_num.py" />
+        <option value="$PROJECT_DIR$/Python Advance/Practise/GPA.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="39" />
+    <option name="y" value="-4" />
+    <option name="width" value="1327" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Advance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Advance" type="462c0819:PsiDirectoryNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="2D Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/jayanta/Desktop/P.P/Python/Python Advance/Practise/Decorator-2.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PyCamp Task" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.GPA">
+    <configuration name="195" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems/195.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="401" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advance/Practise/Uva Problems/401.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="GPA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advance/Practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advance/Practise/GPA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Prime_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advance/Practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advance/Practise/Prime_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="even_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advance/Practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advance/Practise/even_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.401" />
+      <item itemvalue="Python.195" />
+      <item itemvalue="Python.GPA" />
+      <item itemvalue="Python.even_test" />
+      <item itemvalue="Python.Prime_num" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GPA" />
+        <item itemvalue="Python.Prime_num" />
+        <item itemvalue="Python.even_test" />
+        <item itemvalue="Python.195" />
+        <item itemvalue="Python.401" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db8e53c2-11c8-452b-a078-2c8527be68b9" name="Default" comment="" />
+      <created>1505755655898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505755655898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="39" y="-4" width="1327" height="772" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2128637" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" x="676" y="376" width="585" height="225" id="Run" order="2" weight="0.27932099" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32838038" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3287037" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970282" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="4" show_stripe_button="false" weight="0.17473525" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" x="676" y="376" width="585" height="225" id="Run" order="2" visible="true" weight="0.42199108" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2573585" />
+      <window_info id="Structure" order="0" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Data View" order="4" show_stripe_button="false" weight="0.17473525" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970282" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3286385" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python Basic/Project/detect a Letter.py" />
+    <entry file="file://$PROJECT_DIR$/Python Basic/Project/Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Area of Circle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Project With Database/Copy of PYTHON_store_and_search_data_for_start_learning_using_DATABASE.py" />
+    <entry file="file://$PROJECT_DIR$/Python Basic/Project/PYTHON_store_and_search_data_for_start_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Project With Database/PYTHON_store_and_search_data_for_start_learning_using_DATABASE.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Database/database_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Database/Sqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Factorial_by_Recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Projects/python quiz mini project based on web crolling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Projects/Object Oriented/Fibonacci.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Projects/Object Oriented/test.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Fibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Fibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Factorial.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator-2.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Dec_classmethod.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func-3.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func-4.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Nested_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Dec_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Decorator/Des_func5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/11172.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Uva Problems/12372.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/lopp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Uva Problems/10300.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Uva Problems/12577.py" />
+    <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/2D-5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/2D-4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/2D-3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/2D-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Uva Problems/382.py" />
+    <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/Matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Basic/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Uva Problems/492.py" />
+    <entry file="file://$PROJECT_DIR$/Python Basic/namota.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Uva Problems/401.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Uva Problems/10281.py" />
+    <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/2D-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Uva Problems/195.py" />
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/Prime_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/even_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/test_Prime_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Advance/Practise/GPA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Basic/Array/2D Array/2D-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23906706" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

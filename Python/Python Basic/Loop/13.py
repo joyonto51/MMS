@@ -1,0 +1,1 @@
+inp=input("Enter the value of A:")
