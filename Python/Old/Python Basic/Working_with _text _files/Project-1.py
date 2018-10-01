@@ -3,7 +3,8 @@ def add():
     addr=input("Enter the address:")
     data="{:15s}{:30s}".format(name,addr)
     file=open("data.txt","a")
-    file.write(name,addr + "\n")
+    file.write(name + "\n")
+    file.write(addr + "\n")
     file.write("----------------------------------------"+"\n")
     file.close
 
